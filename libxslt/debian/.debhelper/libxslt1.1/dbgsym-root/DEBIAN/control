@@ -1,0 +1,13 @@
+Package: libxslt1.1-dbgsym
+Source: libxslt
+Version: 1.1.32-2
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Debian XML/SGML Group <debian-xml-sgml-pkgs@lists.alioth.debian.org>
+Installed-Size: 308
+Depends: libxslt1.1 (= 1.1.32-2)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libxslt1.1
+Build-Ids: 06c17f8ab26285207bd7587bfc9fde3122e983a2 72cfbce0b9fcfd86bc741f9a2da96005f43aa5db

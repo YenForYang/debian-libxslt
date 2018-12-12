@@ -1,0 +1,49 @@
+Format: 1.8
+Date: Sat, 26 May 2018 23:12:37 +0200
+Source: libxslt
+Binary: libxslt1.1 libxslt1-dev xsltproc python-libxslt1 python-libxslt1-dbg
+Built-For-Profiles: nobiarch nocheck
+Architecture: amd64
+Version: 1.1.32-2
+Distribution: unstable
+Urgency: medium
+Maintainer: Debian XML/SGML Group <debian-xml-sgml-pkgs@lists.alioth.debian.org>
+Changed-By: Mattia Rizzolo <mattia@debian.org>
+Description:
+ libxslt1-dev - XSLT 1.0 processing library - development kit
+ libxslt1.1 - XSLT 1.0 processing library - runtime library
+ python-libxslt1 - Python bindings for libxslt1
+ python-libxslt1-dbg - Python bindings for libxslt1 (debug extension)
+ xsltproc   - XSLT 1.0 command line processor
+Changes:
+ libxslt (1.1.32-2) unstable; urgency=medium
+ .
+   * Team upload.
+   * Add missing Build-Depends on pkg-config.
+Checksums-Sha1:
+ f723b20c9d0aa5920d53e5fd6aec673e58a96f42 2440348 libxslt1-dev_1.1.32-2_amd64.deb
+ a8aa4bf7e9a382e5f51a21c17f7aa8130c53cefe 241820 libxslt1.1-dbgsym_1.1.32-2_amd64.deb
+ 4cc29a457fc6202a37eb2ad37365e36e028a18b0 371540 libxslt1.1_1.1.32-2_amd64.deb
+ 9aa4458738d51d633cad66d9c0b466ea55de3f27 8692 libxslt_1.1.32-2_amd64.buildinfo
+ 68fd6abd02513bf83d7d0699095a5ff06bc3bae0 222284 python-libxslt1-dbg_1.1.32-2_amd64.deb
+ 8f175b86db7a3f8fc58f9a2ae28993e6dd2f2395 153192 python-libxslt1_1.1.32-2_amd64.deb
+ 93f5d24d2446698723937e0cd454369628e4100f 20280 xsltproc-dbgsym_1.1.32-2_amd64.deb
+ 1919eb25eff9080dc3f3c9d3021fea7aed877950 126060 xsltproc_1.1.32-2_amd64.deb
+Checksums-Sha256:
+ 91d539b9aa8d75c3c267d8e6bb4e9ebeae4465c5f531395a923b11bd76cd509a 2440348 libxslt1-dev_1.1.32-2_amd64.deb
+ 19ef4a7b0859d2d744708e8acfcba5df50a596c474540d0ec8a554c44b9971f4 241820 libxslt1.1-dbgsym_1.1.32-2_amd64.deb
+ e639c3ebaff56cfbd762e52944ea2bb330085f73521f5bc05b7737477f7b0afd 371540 libxslt1.1_1.1.32-2_amd64.deb
+ fb060c39bf777b38ec7a05f603ca3871daaf20b3c546feb73cbd64fa02dd4500 8692 libxslt_1.1.32-2_amd64.buildinfo
+ c4eae920805e1bb1bfe864cc5460e2ba38df4b1ca6afb04eef41169b53d3c8d5 222284 python-libxslt1-dbg_1.1.32-2_amd64.deb
+ 768acad4a3370f79122db4b32319230f84e301e5541d3b2592382db8f3ff8bb6 153192 python-libxslt1_1.1.32-2_amd64.deb
+ c8b76a9a75c715a94904e3b95fc97f3a83563440c9ad50eac9e0b90df6daae1c 20280 xsltproc-dbgsym_1.1.32-2_amd64.deb
+ 5e6bec3d6a605c0399f634b68100f3dfed7e6fa0ca714d469b45bfd47544150b 126060 xsltproc_1.1.32-2_amd64.deb
+Files:
+ 82d9f2d343294d425e3da190d0b73cbc 2440348 libdevel optional libxslt1-dev_1.1.32-2_amd64.deb
+ bea539a5efd50be6bc4538f07ede63fc 241820 debug optional libxslt1.1-dbgsym_1.1.32-2_amd64.deb
+ 4d23cffce0c9cd4d985ab3b47d9fa348 371540 libs optional libxslt1.1_1.1.32-2_amd64.deb
+ 206b23ad4853e575ba339414740c7f69 8692 text optional libxslt_1.1.32-2_amd64.buildinfo
+ f659ddf7d04f1774e66183ce150137f0 222284 debug optional python-libxslt1-dbg_1.1.32-2_amd64.deb
+ 272fc97159ef7908caea601c99b86a0f 153192 python optional python-libxslt1_1.1.32-2_amd64.deb
+ 703b93e257aedea496421ac61fd91a46 20280 debug optional xsltproc-dbgsym_1.1.32-2_amd64.deb
+ 810f3aa51630f1a89bfd5ceea54126ec 126060 text optional xsltproc_1.1.32-2_amd64.deb

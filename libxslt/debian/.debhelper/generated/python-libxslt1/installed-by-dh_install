@@ -1,0 +1,4 @@
+debian/tmp/usr/lib/python2.7/dist-packages/libxslt.py
+debian/tmp/usr/lib/python2.7/dist-packages/libxsltmod.so
+debian/tmp/usr/lib/python2.7/dist-packages/libxslt.py
+debian/tmp-dbg/usr/lib/python2.7/dist-packages/libxsltmod_d.so

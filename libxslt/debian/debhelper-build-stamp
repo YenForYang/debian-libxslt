@@ -1,0 +1,5 @@
+libxslt1.1
+libxslt1-dev
+xsltproc
+python-libxslt1
+python-libxslt1-dbg

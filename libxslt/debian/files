@@ -1,0 +1,8 @@
+libxslt1-dev_1.1.32-2_amd64.deb libdevel optional
+libxslt1.1-dbgsym_1.1.32-2_amd64.deb debug optional automatic=yes
+libxslt1.1_1.1.32-2_amd64.deb libs optional
+libxslt_1.1.32-2_amd64.buildinfo text optional
+python-libxslt1-dbg_1.1.32-2_amd64.deb debug optional
+python-libxslt1_1.1.32-2_amd64.deb python optional
+xsltproc-dbgsym_1.1.32-2_amd64.deb debug optional automatic=yes
+xsltproc_1.1.32-2_amd64.deb text optional

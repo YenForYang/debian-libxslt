@@ -1,0 +1,7 @@
+./python/tests/basic.py
+./python/tests/exslt.py
+./python/tests/extelem.py
+./python/tests/extfunc.py
+./python/tests/pyxsltproc.py
+./python/tests/test.xml
+./python/tests/test.xsl

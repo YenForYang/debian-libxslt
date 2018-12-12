@@ -1,0 +1,17 @@
+1d4e56b8c26b650594cf8745c66cbbcd  usr/lib/python2.7/dist-packages/libxslt.py
+b64d4e428bd154ad546f2e3ae3dd70c5  usr/lib/python2.7/dist-packages/libxsltmod.x86_64-linux-gnu.so
+5b02669437670161c86e18fe64105301  usr/share/doc/python-libxslt1/AUTHORS
+9e8bd690c75965486826e59d46950e4a  usr/share/doc/python-libxslt1/FEATURES.gz
+fa8d591b1dbbe6cf5e7fa3f3105c076f  usr/share/doc/python-libxslt1/NEWS.gz
+bc65c900f4d1e6b9aea0329b3b804dca  usr/share/doc/python-libxslt1/README
+1671e62be479162b8d9a012c81bc235e  usr/share/doc/python-libxslt1/TODO
+aff3393c5bdc04c035f5d524c8971283  usr/share/doc/python-libxslt1/changelog.Debian.gz
+e53b58ff71f32c5a820b4b089b2bedc8  usr/share/doc/python-libxslt1/changelog.gz
+3896dd4041149ce6158d2aa28d963db0  usr/share/doc/python-libxslt1/copyright
+c993d388588b78795bdeef121a82f39e  usr/share/doc/python-libxslt1/examples/basic.py
+5aa3ddf1e9b3dc139ac23f7fc914c951  usr/share/doc/python-libxslt1/examples/exslt.py
+b083f379f6bf1008ad785ce7b7648c37  usr/share/doc/python-libxslt1/examples/extelem.py
+1478ae296fc73446d5ad0dccc7d9ea7c  usr/share/doc/python-libxslt1/examples/extfunc.py
+744e9ac547be7f125261fb32ff405131  usr/share/doc/python-libxslt1/examples/pyxsltproc.py
+5569671d4323f2e49b6cea43f4bea603  usr/share/doc/python-libxslt1/examples/test.xml
+9485c969a408cfa408eea68558bdb226  usr/share/doc/python-libxslt1/examples/test.xsl
